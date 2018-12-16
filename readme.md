@@ -13,7 +13,7 @@
 3. 提醒功能，线程实现，实现的一般
 
 ### 数据表设计
-<img src="images/table.png" width = 80% height = 80% div align=center />
+<img src="images/table.png" width = 60% height = 60% div align=center />
 
 ## 代码结构
 - `com.qwk.DesktopFairyDialog.java` 程序入口
@@ -27,12 +27,12 @@
 ## 效果图
 - 日历
 
-<img src="images/calendar.png" width = 70% height = 70% div align=center />
+<img src="images/calendar.png" width = 50% div align=center />
 
 
 - 计划
 
-<img src="images/plan.png" width = 70% height = 70% div align=center />
+<img src="images/plan.png" width = 50%  div align=center />
 
 
 ## Authors
