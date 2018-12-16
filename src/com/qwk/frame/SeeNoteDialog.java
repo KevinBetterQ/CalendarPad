@@ -1,7 +1,5 @@
 /*
  * SeeDialog.java
- *
- * Created on 2008年9月20日, 下午4:15
  */
 package com.qwk.frame;
 

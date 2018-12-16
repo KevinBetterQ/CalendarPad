@@ -12,7 +12,6 @@ import javax.swing.JFormattedTextField;
 /*
  * TimeField.java
  *
- * Created on 2008年9月19日, 下午4:58
  */
 /**
  *

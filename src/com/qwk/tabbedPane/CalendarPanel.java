@@ -1,7 +1,5 @@
 /*
  * CalendarPanel.java
- *
- * Created on 2008年7月27日, 上午8:44
  */
 package com.qwk.tabbedPane;
 

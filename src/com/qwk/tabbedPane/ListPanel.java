@@ -1,7 +1,5 @@
 /*
  * PlanPanel.java
- *
- * Created on 2008年7月27日, 上午8:59
  */
 package com.qwk.tabbedPane;
 
